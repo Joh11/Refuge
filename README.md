@@ -10,6 +10,6 @@ Real reason is: we don't want to use Google services to write freaking text. If 
 
 ## List of food to buy 
 
-- [] x grams of past
+- [ ] x grams of past
 - cheese
-  - [] test
+  - [ ] test
